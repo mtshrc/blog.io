@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: ""
+description: "GM出门不穿防弹衣"
 header-img: "img/red.jpg"
 ---
 
@@ -12,7 +12,7 @@ header-img: "img/red.jpg"
 
 
 
-##联系
+联系我
 
 - guanjww@126.com
 - wechat：mts002
