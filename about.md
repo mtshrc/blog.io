@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "GM出门不穿防弹衣"
+description: "关于"
 header-img: "img/red.jpg"
 ---
 
