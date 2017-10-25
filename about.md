@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "不断下沉是为了积蓄而反弹"
+description: "管嘉炜"
 header-img: "img/red.jpg"
 ---
 
