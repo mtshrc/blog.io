@@ -65,11 +65,11 @@ header-img: "img/red.jpg"
 ------
 ### 计算机水平
     
-- 工具：项目管理：Git、禅道；文档原型：Axure、MockingBot、MindManager、Mou、Pages等；数据库：Navicat、MySQLWorkBench；对U3D游戏引擎有一定了解；
+- 工具：项目管理如Git、禅道；文档原型如Axure、MockingBot、MindManager、Mou、Pages等；数据库管理如Navicat、MySQLWorkBench；对U3D游戏引擎有一定了解；
      
-- 语言：熟悉Java；了解SSH,SpringMVC+FreeMarker等主流开发框架；熟悉主流前端技术：JavaScript，jQuery等；熟悉主流数据库：MySQL,MongoDB等。
+- 语言：熟悉Java、C#；了解主流开发框架如SSH,SpringMVC；熟悉主流前端技术如JavaScript，jQuery；数据库SQL。
      
-- 计算机等级：计算机专业科班毕业，偶尔帮朋友攒机，修理过若干台个人电脑，追求在实际工作中大量使用计算机程序来提高工作效率。
+- 计算机等级：计算机专业科班毕业但未参加过计算机等级考试，偶尔帮朋友攒机，修理过若干台个人电脑，追求在实际工作中大量使用计算机程序来提高工作效率。
      
 - 系统：日常使用macOS。  
      
