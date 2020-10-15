@@ -5,7 +5,6 @@ description: "管嘉炜"
 header-img: "img/red.jpg"
 ---
 
-------
 ### 联系我
 
 - Email: guanjww@126.cn
@@ -122,8 +121,6 @@ header-img: "img/red.jpg"
 - 更新时间：2020.10.15
 - 版本号：v20201015003
 
-
-------
 
 
 <center>
