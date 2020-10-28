@@ -7,7 +7,7 @@ header-img: "img/red.jpg"
 
 ### 联系我
 
-- Email: guanjww@126.cn
+- Email: guanjww@126.com
 - wechat：ELCID1530
 - 现居杭州
 
